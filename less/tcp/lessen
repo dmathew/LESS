@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chgrp less $1
+chmod 2755 $1
