@@ -20,7 +20,3 @@ chmod 2755 <exe_file>
 We have tested the communication with TCP only. However, we have included the UDP code too (less/less_udp.tar.gz).
 
 Good luck!
-
-Contact info for detailed report:
-	danieljmathew@gmail.com
-	Shaneed C M
